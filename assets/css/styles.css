@@ -166,6 +166,14 @@ p {
   margin-top: 0;
   margin-bottom: 20px;
 }
+.main-wrapper .dynupdown-lib-style {
+  font-size: 16px;
+  font-weight: 500;
+  color: #2d7888;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
 .main-wrapper .section-title .fa {
   width: 30px;
   height: 30px;
